@@ -1,0 +1,54 @@
+h1{
+  font-style: Arial;
+  font-size: 35px;
+  color: #969eaa;
+  text-align: center;
+}
+body{
+  background-image: url(http://www.delgadoscarp.com/img/hero/home.jpg);
+}
+p{
+  font-style: Arial;
+  font-size: 15px;
+  color: #969eaa;
+  text-align: right;
+}
+h2{
+  font-style: Arial;
+  font-size: 30px;
+  color: #000000;
+  text-align: left;
+}
+h3{
+  font-style: Arial;
+  font-size: 30px;
+  color: #000000;
+  text-align: left;
+}
+p1{
+  font-style: Arial;
+  font-size: 28px;
+  color: #000000;
+  text-align: center;
+}
+li{
+  font-style: Arial;
+  font-size: 28px;
+  color: #000000;
+  text-align: left;
+}
+ul{
+  font-style: Arial;
+  font-size: 28px;
+  color: #000000;
+  text-align: center;
+}
+p2{
+  font-style: Arial:
+  font-size: 25px;
+  color: #000000;
+  text-align: left;
+}
+a{
+  color: #000000
+}
